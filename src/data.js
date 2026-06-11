@@ -48,3 +48,4 @@ export const episodeList = [
       "In the thrilling season finale, every truth comes to light, but the consequences are deadly.",
   },
 ];
+export default episodeList
